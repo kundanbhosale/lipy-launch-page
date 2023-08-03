@@ -34,7 +34,7 @@ export default function Home() {
             </Button> */}
           </div>
           <p className="mt-10 text-center font-semibold">
-            Will Works Seamlessly with -
+            Will seamlessly work with -
           </p>
 
           <div className="my-4 flex justify-center space-x-3">
@@ -42,7 +42,7 @@ export default function Home() {
             <Icons.instagram className="h-7 w-7 fill-muted-foreground/70 text-muted opacity-80 " />
           </div>
           <p className=" text-light text-center text-xs text-neutral-400 max-w-[275px] m-auto">
-            Much more like email, phone, and other social media platforms will
+            Much more communication channels like email, phone, and other social media platforms will
             be supported in future.
           </p>
         </div>
