@@ -9,17 +9,14 @@ export default function Home() {
         <div className="py-14 px-4">
           <Icons.logo className="w-24 h-fit m-auto mb-20" />
           <h1 className="scroll-m-20 text-center md:text-4xl font-semibold md:font-extrabold tracking-tight lg:text-5xl text-2xl">
-            Social Media Chat Assitant To
+            Social Media Assitant To
             <br />
           </h1>
           <h2 className="mb-8  scroll-m-20 text-center text-4xl md:text-7xl font-extrabold  tracking-tight text-primary first:mt-0">
             Automate Customer Inquires
           </h2>
           <h3 className="m-auto max-w-[800px] text-center text-base md:text-xl text-muted-foreground">
-            Lipy.ai is here to revolutionize your social media experience,
-            providing personalized responses for customer inquires, order
-            taking, and efficient appointment bookings. Enhance your customer
-            satisfaction rate and drive business growth.
+             Lipy.ai will streamline your social media business by offering tailored responses for customer inquiries, managing orders, and facilitating seamless appointment bookings. Elevate your customer satisfaction rate and fuel the expansion of your business.
           </h3>
           <div className="mt-8 flex justify-center space-x-6">
             <Button
